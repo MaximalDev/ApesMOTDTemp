@@ -1,9 +1,12 @@
 Welcome to A.P.E.S!
 A.P.E.S was SimulApes, but we have changed the name.
 
-Ver 2.0.6-
-- Fixed water, so you can see it in game
-- Added more hitsounds
-- Fixed small general bugs
-- Fixed some holes in some maps
-- Added another way to go back up
+Ver 2.0.7-
+- Fixed out of bounds spots
+- Made water better
+- Climbable diving boards 
+- Less shacky movement
+- Other fixes
+- Mod tools
+- Dev tools 
+- More security 
